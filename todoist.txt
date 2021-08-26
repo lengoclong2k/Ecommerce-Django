@@ -1,0 +1,35 @@
+Todoist
+
+-Include Font Awesome (DONE)
+- Set up the base template (DONE)
+- Create django app and models for products (DONE)
+- Create serializer and views for products (DONE)
+- Create simple front page (DONE)
+- View product
+	-Create viewset in Django  (DONE)
+	- Create vue page for showing product (DONE)
+	- Addlink to detail page (DONE)
+-(DONE) Sette opp Vuex
+-(DONE)Make it possible to add to cart
+	- Add funtionality to vuex
+	- Initialize store in app.vue
+	- Add button to product page
+	- Showa a toast message
+-(DONE) Implement a loading bar
+- (DONE) Set document title(All pages)
+-(DONE) Make it possible to view a category
+	-Convert the product to a component
+- (DONE) Add search funtionality
+- (DONE) View cart
+	-A cart item should be a component
+- (DONE) Change contents of cart
+	- Increment/Decrement content
+	- Remove from cart
+- Make it possible to sign up
+- Make it possible to login
+- Create a simple my account page
+- Proceed to checkout (Authentication)
+- Create a simple success page
+-Show my orders on the my account page
+	-An order should bt a component
+
